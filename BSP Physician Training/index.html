@@ -3,8 +3,8 @@
 <head>
   <meta charset="utf-8">
   <!-- Created using Storyline 360 - http://www.articulate.com  -->
-  <!-- version: 3.81.31200.0 -->
-  <title>BSP Physician Training - variables</title>
+  <!-- version: 3.83.31444.0 -->
+  <title>BSP Physician Training - Variables and JS</title>
   <meta http-equiv="x-ua-compatible" content="IE=edge"/>
   <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no,shrink-to-fit=no,minimal-ui"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
@@ -28,7 +28,7 @@
       captureRc: false,
       browserSize: 'optimal',
       bgColor: '#FFFFFF',
-      features: 'BackgroundAudioTriggers,ConnectionMessages,DropIn1,DropIn2,DropIn3,DropIn4,DropIn5,LayerPresentAsDialog,MultiLineTextEntry,MultipleQuizTracking,UpdatedThemeEditor',
+      features: 'BackgroundAudioTriggers,BackgroundAudioVolumeVariable,ConnectionMessages,DropInBase,DropInVectors,LayerPresentAsDialog,MultiLineTextEntry,MultipleQuizTracking,PlayerTooltips,UpdatedThemeEditor',
       themeName: 'unified',
       preloaderColor: '#8C8C8C',
       suppressAnalytics: false,
@@ -36,8 +36,8 @@
       publishSource: 'storyline',
       aid: 'aid|2bbe91b3-5834-487c-ac09-98eb6fb8cb3e',
       cid: '3f5e0af2-1953-41f3-a76b-0a3254abf12a',
-      playerVersion: '3.81.31200.0',
-      publishTimestamp: '2023-11-28T20:16:07.7619499Z',
+      playerVersion: '3.83.31444.0',
+      publishTimestamp: '2024-01-30T19:17:33.0437683Z',
       maxIosVideoElements: 10,
       connectionSettings: { message: 'You%20are%20offline.%20Trying%20to%20reconnect...', useDarkTheme: true, mode: 'disabled' },
 
@@ -131,7 +131,7 @@
   </script>
 
   <div class="mobile-load-title-overlay" style="display: none">
-    <div class="mobile-load-title">BSP Physician Training - variables</div>
+    <div class="mobile-load-title">BSP Physician Training - Variables and JS</div>
   </div>
 
   <div class="mobile-chrome-warning"></div>
@@ -173,7 +173,7 @@
     transform: translateX(-50%);
   }
 
-  .is-portrait .warn-connection-content {
+  .view-mobile.is-portrait .warn-connection-content {
     transform: translate(-50%, calc(-100% - 15px));
   }
 
@@ -382,11 +382,14 @@
       }
 
       var isPortrait = document.body.classList.contains('is-portrait');
+      var isMobile = document.body.classList.contains('view-mobile');
       var warningEl = document.querySelector('.warn-connection-content');
 
-      if (isPortrait) {
+      if (isPortrait && isMobile) {
         var slide = document.querySelector('.primary-slide');
-        var slideRect = slide.getBoundingClientRect();
+        var slideRect = slide != null
+          ? slide.getBoundingClientRect()
+          : { top: window.innerHeight, left: 0, width: window.innerWidth };
 
         warningEl.style.top = `${slideRect.top}px`
         warningEl.style.left = `${slideRect.left + slideRect.width / 2}px`
@@ -412,7 +415,7 @@
     var warnDialogEl = document.querySelector('.warn-connection-dialog');
 
     function disableKeys() {
-      if (DS.views.nsStack.length === 1) {
+      if (DS.views && DS.views.nsStack && DS.views.nsStack.length === 1) {
         DS.views.nsStack[0].tabReachable = false
         DS.views.nsStack[0].updateTabIndex(true, true);
       }
@@ -425,8 +428,8 @@
     }
 
     function enableKeys() {
-      document.body.removeChild(accStyle);
-      if (DS.views.nsStack.length === 1 && DS.views.nsStack[0].name === '_frame') {
+      accStyle.remove();
+      if (DS.views && DS.views.nsStack && DS.views.nsStack.length === 1 && DS.views.nsStack[0].name === '_frame') {
         DS.views.nsStack[0].tabReachable = true;
         DS.views.nsStack[0].updateTabIndex();
       }
