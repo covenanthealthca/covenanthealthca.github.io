@@ -2,10 +2,10 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "62fmYqg7vCT":
+      case "5gExQyJOJgY":
         Script1();
         break;
-      case "65Ntt9g4oNA":
+      case "6R3Yv2zFoVw":
         Script2();
         break;
   }
@@ -19,6 +19,11 @@ var addToTimeline = player.addToTimeline;
 var setVar = player.SetVar;
 var getVar = player.GetVar;
 window.Script1 = function()
+{
+  window.print();
+}
+
+window.Script2 = function()
 {
   let currentTime = new Date();
 
@@ -37,11 +42,6 @@ let dateString = monthm + " " + day + "," + " " + year;
 //Pushing data as a variable into Storyline
 let player = GetPlayer();
 player.SetVar("todaysdate", dateString);
-}
-
-window.Script2 = function()
-{
-  window.print();
 }
 
 };
