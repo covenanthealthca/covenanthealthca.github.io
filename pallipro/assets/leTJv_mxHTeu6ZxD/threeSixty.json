@@ -1,0 +1,342 @@
+{
+  "version": "3.88.32574.0",
+  "course_id": "6lV5kJOjGEj",
+  "title": "24JAN2024_Activity 5_Ritesh",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Instructions"
+    },
+    {
+      "title": "Meet Ritesh"
+    },
+    {
+      "title": "ACP"
+    },
+    {
+      "title": "GCD"
+    },
+    {
+      "title": "Physical"
+    },
+    {
+      "title": "Psychological, Social, Spiritual"
+    },
+    {
+      "title": "Family Impacts"
+    },
+    {
+      "title": "Teaching at Bedside"
+    },
+    {
+      "title": "Private Discussion"
+    },
+    {
+      "title": "The Road Home"
+    },
+    {
+      "title": "B 2 to 3"
+    },
+    {
+      "title": "B 4 to 5"
+    },
+    {
+      "title": "Reflection"
+    },
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Conclusion"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5ZhZB1RavVT",
+      "title": "Title page",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "60wOLt9Dlps",
+      "title": "Navigation",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6OIcOEJyog4",
+      "title": "1.1 Hotspot",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "63Gz6djUTcm",
+      "title": "1.2 Hotspot",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "5VYFiqNbsfa",
+      "title": "1.3 Hotspot",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "65nHnn4btTr",
+      "title": "1.4 Hotspot",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "5uHUmBFGT1H",
+      "title": "1.5 Hotspot",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "5mxGdoKqJ0Z",
+      "title": "1.6 Hotspot",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "5hPPRinJsyx",
+      "title": "2 to 3 Branch",
+      "scene_index": "3.7"
+    },
+    {
+      "id": "5rgok3zKY2t",
+      "title": "2a 2.1 Hotspot",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "6ADsplRyhcM",
+      "title": "2a 2.2 Hotspot",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "6krGvNxRWin",
+      "title": "2b 2.1 Hotspot",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "5vph80B4zq1",
+      "title": "2b 2.2 Hotspot",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5xSXdUlc0bt",
+      "title": "2b 2.3 Hotspot",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "5ycqSkToNPh",
+      "title": "2b 2.4 Hotspot",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "6dxjtvwiET8",
+      "title": "2b 2.5 Hotspot",
+      "scene_index": "5.5"
+    },
+    {
+      "id": "5VfSvkDgoXh",
+      "title": "2b 2.6",
+      "scene_index": "5.6"
+    },
+    {
+      "id": "6RTKIBRZA0w",
+      "title": "3a Hotspot",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "5ovnhpvV9gO",
+      "title": "3a Hotspot",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "6gUQmHgUm3H",
+      "title": "3b 3.1 Hotspot",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5wTMar3RvwY",
+      "title": "3b 3.2 Hotspot",
+      "scene_index": "7.2"
+    },
+    {
+      "id": "6XLxst6Q8dL",
+      "title": "3b 3.3 Hotspot",
+      "scene_index": "7.3"
+    },
+    {
+      "id": "5V484sCIPIR",
+      "title": "3b 3.4 Hotspot",
+      "scene_index": "7.4"
+    },
+    {
+      "id": "6MUMYSOyp87",
+      "title": "4a 4.1 Hotspot",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "6E3mIzLZf52",
+      "title": "4a 4.2 Hotspot",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "6ja1xAoP4ls",
+      "title": "4a 4.3 Hotspot",
+      "scene_index": "8.3"
+    },
+    {
+      "id": "6YGkkolOE3p",
+      "title": "4a 4.3.2 Hotspot",
+      "scene_index": "8.4"
+    },
+    {
+      "id": "634tWKoHxRT",
+      "title": "4a - 4.4",
+      "scene_index": "8.5"
+    },
+    {
+      "id": "5q8o5oPL9V4",
+      "title": "5a 5.1 Hotspot",
+      "scene_index": "9.1"
+    },
+    {
+      "id": "5myPEBDbF8w",
+      "title": "5a 5.2 Hotspot",
+      "scene_index": "9.2"
+    },
+    {
+      "id": "68AnPu5hgRd",
+      "title": "5b 5.1 Hotspot",
+      "scene_index": "10.1"
+    },
+    {
+      "id": "6SOhdRek6y3",
+      "title": "5b 5.2 Hotspot",
+      "scene_index": "10.2"
+    },
+    {
+      "id": "65SBAQIoy1k",
+      "title": "5b - 5.3",
+      "scene_index": "10.3"
+    },
+    {
+      "id": "6FbVzQtMQmu",
+      "title": "6 - 6.1",
+      "scene_index": "11.1"
+    },
+    {
+      "id": "6Nwt2CZNA3p",
+      "title": "Physician",
+      "scene_index": "11.2"
+    },
+    {
+      "id": "687FSA1Iq0U",
+      "title": "Spiritual Care Provider",
+      "scene_index": "11.3"
+    },
+    {
+      "id": "6XoZLCLvGxo",
+      "title": "Social Worker",
+      "scene_index": "11.4"
+    },
+    {
+      "id": "6Nn6VkrlYmf",
+      "title": "OT",
+      "scene_index": "11.5"
+    },
+    {
+      "id": "6HnKuLrOi39",
+      "title": "Physiotherapist",
+      "scene_index": "11.6"
+    },
+    {
+      "id": "6XhjPiFx5aA",
+      "title": "Nurse",
+      "scene_index": "11.7"
+    },
+    {
+      "id": "6LgsQWHeCJG",
+      "title": "Psychologist",
+      "scene_index": "11.8"
+    },
+    {
+      "id": "6GHyXOaHTUD",
+      "title": "Pharmacist",
+      "scene_index": "11.9"
+    },
+    {
+      "id": "6QqVRG5rzc6",
+      "title": "Music Therapist",
+      "scene_index": "11.10"
+    },
+    {
+      "id": "6FX5IZ8DZfA",
+      "title": "2 to 3",
+      "scene_index": "12.1"
+    },
+    {
+      "id": "61mdtUmVFB6",
+      "title": "4 to 5",
+      "scene_index": "13.1"
+    },
+    {
+      "id": "65Q0Ip4ij4K",
+      "title": "6.1.2 Reflection 2",
+      "scene_index": "14.1"
+    },
+    {
+      "id": "6Q8j9ygfWY0",
+      "title": "Time to Reflect",
+      "scene_index": "14.2"
+    },
+    {
+      "id": "5aGv9T5ixMy",
+      "title": "6.2 DischargeHotspot",
+      "scene_index": "14.3"
+    },
+    {
+      "id": "6OKKSjhXpax",
+      "title": "6.3 Discharge Tasks Hotspot",
+      "scene_index": "14.4"
+    },
+    {
+      "id": "65KLktjIEi3",
+      "title": "6.5 Home",
+      "scene_index": "14.5"
+    },
+    {
+      "id": "5Y6FqHqtY3x",
+      "title": "6.4.1 Goodbye",
+      "scene_index": "14.6"
+    },
+    {
+      "id": "6cODcVIxCm1",
+      "title": "6.4 Debrief",
+      "scene_index": "14.7"
+    },
+    {
+      "id": "6rPIuUtGapM",
+      "title": "Results",
+      "scene_index": "15.1"
+    },
+    {
+      "id": "5b7ZYb8xnml",
+      "title": "Opportunity to Grow - <79",
+      "scene_index": "16.1"
+    },
+    {
+      "id": "5mGGOgn3WRf",
+      "title": "Congrats - >80",
+      "scene_index": "16.2"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
