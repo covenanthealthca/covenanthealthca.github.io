@@ -1,0 +1,241 @@
+{
+  "version": "3.88.32574.0",
+  "course_id": "5ehJq6d8qiW",
+  "title": "14 JUN2024_Activity 5_Marie",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Chapter 1: Meet Marie"
+    },
+    {
+      "title": "Chapter 2"
+    },
+    {
+      "title": "Team Members"
+    },
+    {
+      "title": "Chapter 3"
+    },
+    {
+      "title": "Chapter 4"
+    },
+    {
+      "title": "Chapter 5"
+    },
+    {
+      "title": "Chapter 6"
+    },
+    {
+      "title": "Untitled Scene"
+    },
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5njKoKJ2gtq",
+      "title": "Title page",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6GHGfQ1dMct",
+      "title": "Navigation",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "68iLKkP7Cg1",
+      "title": "Meet Marie",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6miBZFbcchm",
+      "title": "1.2",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "68dFLk4tfIm",
+      "title": "1.3",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6ZvHWygyj2z",
+      "title": "1.4",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5t9OR8mWTXe",
+      "title": "1.5",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6Es83YAI0pO",
+      "title": "1.6",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6FrgBL0vgqL",
+      "title": "Team Approach",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "5xboU3lYOsU",
+      "title": "2.2",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6Q6Rk4nFHjx",
+      "title": "Marie's Team",
+      "scene_index": "2.3"
+    },
+    {
+      "id": "5hpk7r1P4Uc",
+      "title": "2.3",
+      "scene_index": "2.4"
+    },
+    {
+      "id": "6CmeV27Gyv8",
+      "title": "Health Care Aide",
+      "scene_index": "3.1"
+    },
+    {
+      "id": "6oBszt7CtWB",
+      "title": "Nursing Case Manager",
+      "scene_index": "3.2"
+    },
+    {
+      "id": "6Hvq6O7JXaO",
+      "title": "Occupational Therapist",
+      "scene_index": "3.3"
+    },
+    {
+      "id": "6pbHKbIJftn",
+      "title": "Primary Care Provider",
+      "scene_index": "3.4"
+    },
+    {
+      "id": "6V8XpGgrOiz",
+      "title": "Social Worker",
+      "scene_index": "3.5"
+    },
+    {
+      "id": "6rBITjMsZuT",
+      "title": "Specialty Services",
+      "scene_index": "3.6"
+    },
+    {
+      "id": "62hFKiaQgFz",
+      "title": "Good Day, Bad Day",
+      "scene_index": "4.1"
+    },
+    {
+      "id": "5hgJcHrMi4c",
+      "title": "3.2",
+      "scene_index": "4.2"
+    },
+    {
+      "id": "5d5iC6FE7HA",
+      "title": "3.3",
+      "scene_index": "4.3"
+    },
+    {
+      "id": "5sYfBQOCJ2X",
+      "title": "Supports",
+      "scene_index": "4.4"
+    },
+    {
+      "id": "6WpNw9CbwXx",
+      "title": "3.4",
+      "scene_index": "4.5"
+    },
+    {
+      "id": "5qS2mReMxPk",
+      "title": "3.5",
+      "scene_index": "4.6"
+    },
+    {
+      "id": "5xnjdv5brwH",
+      "title": "3.6",
+      "scene_index": "4.7"
+    },
+    {
+      "id": "5nUU38jBWfa",
+      "title": "3.7",
+      "scene_index": "4.8"
+    },
+    {
+      "id": "65KsVkhJcCW",
+      "title": "3.8",
+      "scene_index": "4.9"
+    },
+    {
+      "id": "5rNJeFLxQ2M",
+      "title": "Marie's Progression",
+      "scene_index": "5.1"
+    },
+    {
+      "id": "6e5twTHUatv",
+      "title": "4.2",
+      "scene_index": "5.2"
+    },
+    {
+      "id": "5hjPv1F5jfD",
+      "title": "4.3",
+      "scene_index": "5.3"
+    },
+    {
+      "id": "5leZTkxDE05",
+      "title": "4.4",
+      "scene_index": "5.4"
+    },
+    {
+      "id": "6Sg09GXL0qp",
+      "title": "Meet Albert",
+      "scene_index": "6.1"
+    },
+    {
+      "id": "6M1fdyWaUZ2",
+      "title": "5.2",
+      "scene_index": "6.2"
+    },
+    {
+      "id": "68gyoxyGwBc",
+      "title": "5.3",
+      "scene_index": "6.3"
+    },
+    {
+      "id": "602b0k9NWtv",
+      "title": "5.4",
+      "scene_index": "6.4"
+    },
+    {
+      "id": "6Q8QJybxMve",
+      "title": "Did we do the right thing?",
+      "scene_index": "7.1"
+    },
+    {
+      "id": "5cqMrAVoqUe",
+      "title": "Opportunity to Grow - <79",
+      "scene_index": "8.1"
+    },
+    {
+      "id": "6KdOlrdEmK6",
+      "title": "Congrats - >80",
+      "scene_index": "8.2"
+    },
+    {
+      "id": "6hjAHCDvzqm",
+      "title": "Results",
+      "scene_index": "9.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 611
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
