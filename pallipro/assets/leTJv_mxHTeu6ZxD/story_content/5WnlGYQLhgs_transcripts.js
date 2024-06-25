@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":125,"text":"Ritesh says he feels an overall sense of doom and panic about his life and the thought of dying."},{"start":5645,"text":"I can’t sleep, I feel very alone with all of this, I am worried about my kids and wife, "},{"start":11497,"text":"how stressful it is for them that I’m sick and I won’t be getting better."},{"start":16371,"text":"But mostly I just feel so sick. "},{"start":19395,"text":"I don’t feel like eating and my stomach hurts. "},{"start":22675,"text":"I can’t enjoy the things I used to in my life."},{"start":25597,"text":"You listen compassionately and offer support to Ritesh by acknowledging his feelings and giving him an opportunity to share.  "},{"start":33043,"text":"Based on the conversation you decide to offer Ritesh additional support  by referring to one of your interdisciplinary team members"},{"start":39943,"text":" but you’re not sure how Ritesh will respond."}]}]};
+    window.globalLoadJsAsset('story_content/5WnlGYQLhgs_transcripts.js', JSON.stringify(data));
+})();

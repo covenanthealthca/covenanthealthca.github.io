@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":0,"text":"You reflect, food is how we show care, and how we show love. "},{"start":4525,"text":"It’s more than just about nutrition."},{"start":6667,"text":"I want him to know I love him."},{"start":9042,"text":"He knows you love him, he knows."},{"start":11666,"text":"Yes, he does"},{"start":13943,"text":"You affirm they love they share.  "},{"start":16317,"text":"You discuss how the illness interferes with his appetite and that it is not personal. "},{"start":21414,"text":"That his strength fluctuates day to day.  "},{"start":24742,"text":" Some options you suggest are to bring smaller meals from home, "},{"start":28319,"text":"not forcing him to eat, "},{"start":30040,"text":"bringing things that can be easily re-heated or eaten later when he feels like it. "},{"start":34844,"text":"The family like this idea."}]}]};
+    window.globalLoadJsAsset('story_content/5wroikIIzBX_transcripts.js', JSON.stringify(data));
+})();

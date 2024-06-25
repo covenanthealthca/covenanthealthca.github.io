@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":166,"text":"Before Ritesh and the family leave, you go in to say goodbye."},{"start":5641,"text":"We're going home!  "},{"start":7497,"text":"I’m going to be with the kids again!"},{"start":9875,"text":"We can do this together."},{"start":11708,"text":"Thanks for everything you’ve done to help me, "},{"start":13790,"text":"I won’t forget it! "},{"start":15866,"text":"You say goodbye to Ritesh and Priya and you hope they enjoy their time as a family. "},{"start":21290,"text":"You reflect on how open they have been with you and how you were able to respect and uphold their wishes. "},{"start":27095,"text":"You remind Ritesh that there are many people along his illness journey that can help him achieve great quality of life."},{"start":33834,"text":"You are proud of the care you provided."}]}]};
+    window.globalLoadJsAsset('story_content/6q738JhLw0y_transcripts.js', JSON.stringify(data));
+})();

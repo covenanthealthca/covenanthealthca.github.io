@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":145,"text":"At the end of the week, we had a very engaging family session when the young children visited the hospital. "},{"start":6306,"text":"Ritesh chose some songs that the kids enjoyed, "},{"start":8946,"text":"and he and the young children improvised on instruments like the ocean drum and the xylophone. "},{"start":14381,"text":"He was smiling and laughing, and the auntie recorded the session with all of them. "},{"start":19558,"text":" The family is also doing a bedtime story routine,  where Ritesh calls home at night and reads a short story over Facetime for the kids. "},{"start":28025,"text":"If he’s having trouble with his breathing, then his wife takes over for a few pages, till he can join back."}]}]};
+    window.globalLoadJsAsset('story_content/5XddACfvU8Q_transcripts.js', JSON.stringify(data));
+})();
