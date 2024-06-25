@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":0,"text":"We have been following Ritesh since the beginning of his admission. "},{"start":4225,"text":"The most responsible healthcare provider has added several new medications and "},{"start":8405,"text":"we have done teaching with Ritesh and his family about safe medication administration in the home."},{"start":14784,"text":"They feel comfortable administering breakthrough medication for symptom management.  "},{"start":20076,"text":"And understand that the medications might need to be adjusted by  their community team when symptoms change. "},{"start":26695,"text":"They have requested blister pack medications, and we will suggest this in the discharge orders for the community pharmacy."}]}]};
+    window.globalLoadJsAsset('story_content/66jFJ7uvnbc_transcripts.js', JSON.stringify(data));
+})();

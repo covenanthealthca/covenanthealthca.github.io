@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":625,"text":"After you explain how palliative care can help Ritesh manage his symptoms, he shares the following with you."},{"start":7208,"text":"Lately I've had a lot of trouble breathing and I don't feel good. "},{"start":11283,"text":"It's all starting to affect being able to do everyday things."},{"start":15460,"text":"I just feel awful all of the time. "},{"start":18500,"text":"You validate the difficulty he is facing and let him know both you and the team will try to help. "},{"start":24262,"text":"You quickly review Ritesh’s chart. "},{"start":26957,"text":"After hearing his concerns and seeing that he is on a low dose of medication, what do you say?"}]}]};
+    window.globalLoadJsAsset('story_content/62lTsx4ePQu_transcripts.js', JSON.stringify(data));
+})();

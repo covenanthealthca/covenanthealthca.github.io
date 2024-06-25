@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1375,"text":"Today you are working at the hospital and have just met Ritesh. "},{"start":5507,"text":"He's 45 years old and received a diagnosis of lung cancer about 2 years ago. "},{"start":11225,"text":"He was admitted overnight with acute dyspnea that appears under control at the moment. "},{"start":16421,"text":"Ritesh’s wife and two young children are at home. "},{"start":19918,"text":"The attending physician has ordered tests and has also noted on Ritesh’s chart that his current care arrangements aren’t working. "},{"start":27523,"text":"You want to learn more so you introduce yourself and ask how he's doing."},{"start":35291,"text":"I’m not great, but there’s been a mistake!"},{"start":38574,"text":"They said something about a palliative team or something earlier and they're confused!"},{"start":43816,"text":"I’m not palliative!"}]}]};
+    window.globalLoadJsAsset('story_content/6UkGRO7NX7D_transcripts.js', JSON.stringify(data));
+})();
