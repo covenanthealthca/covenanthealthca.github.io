@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":1,"text":"Meeting with the doctor was great! "},{"start":2864,"text":"She used a translator "},{"start":4488,"text":"because it’s hard for me to find all the right words in english."},{"start":8153,"text":"I chose my nephew Andrew as my agent "},{"start":10492,"text":"and I got a green sleeve for all my documents. "},{"start":13808,"text":"We talked a lot. "},{"start":15968,"text":"I decided I don’t want dialysis"},{"start":17939,"text":" because I don’t want to go to hospital or to be hooked up to machines, "},{"start":21539,"text":"and it might not help me for that long anyways "},{"start":23811,"text":"because I’m older and my health isn’t good."},{"start":26180,"text":"I’d rather spend the time I have left at home. "},{"start":29589,"text":"I think it is called conservative management?"}]}]};
+    window.globalLoadJsAsset('story_content/60GBpyAyMPU_transcripts.js', JSON.stringify(data));
+})();

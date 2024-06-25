@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":493,"text":"A Nursing Case Manager provides regular case management through ongoing assessments, care coordination and symptom monitoring. "},{"start":8228,"text":"We can assess Marie using all-encompassing health questions and communicate with the most responsible health care provider or MRHP."},{"start":16754,"text":"As a Nursing Manager, I coordinate with the MRHP regarding the progression of the disease "},{"start":21788,"text":" and discuss options for symptom management, regardless of whether further treatments are being pursued."},{"start":27484,"text":"Coordinating care for Marie may also include navigating a need for bloodwork, "},{"start":31922,"text":"transportation to an appointment, discussing Advance Care Planning and navigating end of life care plans."}]}]};
+    window.globalLoadJsAsset('story_content/6BCWD2XUVML_transcripts.js', JSON.stringify(data));
+})();

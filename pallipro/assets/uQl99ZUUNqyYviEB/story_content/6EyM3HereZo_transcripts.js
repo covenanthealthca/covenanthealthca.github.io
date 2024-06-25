@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":49,"text":"You recognize Marie’s care needs will soon become too high for her to remain home safely."},{"start":5315,"text":" You explain that the progression of symptoms along with the fact "},{"start":8427,"text":"that Marie does not have nearby family support will impact the ability"},{"start":12224,"text":" to provide quality palliative care in Marie’s preferred location of home."},{"start":16481,"text":"I’m tired. "},{"start":18511,"text":"I know my legs are too weak."},{"start":20825,"text":"I know I can’t stay home anymore. "},{"start":24078,"text":"But I don’t want to leave Coco."},{"start":26343,"text":"My friend Betty was talking about that hospice bed again."},{"start":30839,"text":" and she said her cousin was there, and it was nice. "},{"start":36147,"text":"I don’t know what to do."}]}]};
+    window.globalLoadJsAsset('story_content/6EyM3HereZo_transcripts.js', JSON.stringify(data));
+})();

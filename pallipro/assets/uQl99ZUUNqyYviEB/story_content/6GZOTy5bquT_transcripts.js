@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":57,"text":"Palliative care addresses the physical,"},{"start":2481,"text":"psychological, spiritual, emotional and social responses "},{"start":6905,"text":"to loss and grief of living with a life limiting illness. "},{"start":10352,"text":"As illness progresses, finding new ways to connect socially is vital."},{"start":15209,"text":"Marie would like to know more about the day program "},{"start":17917,"text":"and you will connect her with the Social Worker to discuss it.  "},{"start":21098,"text":"Next, you ask Marie if she wants to talk about her illness."},{"start":24816,"text":"My doctor and I discussed it and I want to be no heroics now, "},{"start":28399,"text":"it's called C1, I’m okay with that. "},{"start":31786,"text":"I’m not going back to the hospital, "},{"start":33714,"text":"I don’t want that stuff. "},{"start":36218,"text":"If my time is done it’s done. "},{"start":38951,"text":"I’m staying here with Coco."}]}]};
+    window.globalLoadJsAsset('story_content/6GZOTy5bquT_transcripts.js', JSON.stringify(data));
+})();

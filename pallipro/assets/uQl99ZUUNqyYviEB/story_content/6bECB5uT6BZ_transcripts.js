@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":81,"text":"Quite often, providing support and care involves providing education to the person "},{"start":4544,"text":"and their family about palliative care and a palliative approach to care.  "},{"start":8216,"text":"Sometimes people don’t access palliative care supports because they don’t understand what they offer."},{"start":14000,"text":"Well, I’d like to hear about the meals and those other things you mentioned."},{"start":18083,"text":"I’ve heard about the grab bars to help in the bathroom before and that would be nice."},{"start":22333,"text":"You can tell your team they can come to meet me and Coco."}]}]};
+    window.globalLoadJsAsset('story_content/6bECB5uT6BZ_transcripts.js', JSON.stringify(data));
+})();

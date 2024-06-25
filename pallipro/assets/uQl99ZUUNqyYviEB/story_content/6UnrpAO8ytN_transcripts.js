@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":0,"text":"I’m not going into a hospital or anything."},{"start":3131,"text":"I’m staying right here with Coco."},{"start":5681,"text":"Isn't that right,"},{"start":7500,"text":"mon petit pitou?"},{"start":9166,"text":"We get on just fine, don’t we Coco, just\r\nus two"},{"start":12777,"text":"You explain that palliative care can help\r\nher to stay in her home,"},{"start":16228,"text":" it is about providing support and bringing in services and equipment that will help her be more comfortable at home.  "},{"start":21884,"text":"Marie asks what help is available. "},{"start":24316,"text":"What services and team members do you tell Marie about?"}]}]};
+    window.globalLoadJsAsset('story_content/6UnrpAO8ytN_transcripts.js', JSON.stringify(data));
+})();

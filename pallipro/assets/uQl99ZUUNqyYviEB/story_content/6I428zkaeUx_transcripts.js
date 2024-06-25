@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":0,"text":"Yes, a bright light - I hope one day I will see her again."},{"start":3916,"text":"J’irai la voir un jour."},{"start":6089,"text":"You reassure Marie she is safe, that Coco is here, and the staff are keeping her comfortable. "},{"start":11601,"text":"She closes her eyes."},{"start":13305,"text":"Betty plays her french song request at the bedside and Marie seems to be listening. "},{"start":18145,"text":"It is a beautiful French Catholic song about being reunited in heaven."},{"start":22529,"text":"Marie looks peaceful."},{"start":24288,"text":"Later, at Marie's request, a priest comes to pray in french with her."},{"start":29137,"text":"The next evening Marie dies, with Albert, Betty and Coco at the bedside."}]}]};
+    window.globalLoadJsAsset('story_content/6I428zkaeUx_transcripts.js', JSON.stringify(data));
+})();

@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":177,"text":"You offer to tell her more about what an expected death at home might look like"},{"start":4281,"text":" and also what supports hospice could offer her. "},{"start":6776,"text":"She is open to learn more."},{"start":8828,"text":"As you leave this visit, you feel the weight of Marie’s situation. "},{"start":12808,"text":"You are getting to feel closer to her, despite her gruff initial presentation, "},{"start":18020,"text":"she is growing fond of you and you of her. "},{"start":20532,"text":"You find yourself worrying about her situation. "},{"start":23399,"text":"What could you do to support yourself in dealing with the personal impact of loss and grief?"}]}]};
+    window.globalLoadJsAsset('story_content/5wsYEqDQj4h_transcripts.js', JSON.stringify(data));
+})();

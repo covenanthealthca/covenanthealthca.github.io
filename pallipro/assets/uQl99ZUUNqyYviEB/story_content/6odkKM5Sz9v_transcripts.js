@@ -1,0 +1,5 @@
+
+(function() {
+    const data = {"transcripts":[{"name":"captions","cues":[{"start":129,"text":"Marie and Coco have been together at home for several months. "},{"start":3973,"text":"Marie has been attending the local day program "},{"start":6445,"text":"and receiving ongoing support from the home care team."},{"start":9589,"text":" Albert calls Marie once a week to chat"},{"start":11829,"text":" and Betty has been taking Coco for walks when Marie is too weak."},{"start":15546,"text":"On this visit you notice Marie has signs of kidney disease progression. "},{"start":19866,"text":"Marie has scratches on her arms from itchy skin,"},{"start":23194,"text":"swollen lower legs and feet,  unsteadiness, "},{"start":26698,"text":"and is pausing between sentences to take a breath."}]}]};
+    window.globalLoadJsAsset('story_content/6odkKM5Sz9v_transcripts.js', JSON.stringify(data));
+})();
